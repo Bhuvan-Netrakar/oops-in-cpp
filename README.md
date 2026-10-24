@@ -85,5 +85,5 @@ To run any of the C++ programs in this repository, you need a C++ compiler insta
 
 1. **Clone the repository:**
    ```bash
-   git clone [)
-   cd your-repo-name
+   git clone https://github.com/Bhuvan-Netrakar/oops-in-cpp
+   cd oops-in-cpp
